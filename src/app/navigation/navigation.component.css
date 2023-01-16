@@ -1,0 +1,17 @@
+*{
+  color: white;
+}
+
+#marco {
+  background-color: #3b3b3b;
+}
+
+#logo {
+ width: 100px;
+}
+
+#navbarTogglerDemo02 {
+    justify-content: right;
+    font-size: large;
+    color: white;
+    }
